@@ -145,7 +145,7 @@
     <string name="release_date">Дата виходу</string>
     <string name="installed">Інстальовано</string>
     <string name="installing">Інсталяція</string>
-    <string name="not_installed">Не інстальовано</string>
+    <string name="not_installed">Не інстальовано//Not Installed</string>
     <string name="open">Відкрити</string>
     <string name="family_shared">Сімейна бібліотека</string>
     <string name="games">Ігри</string>
@@ -158,7 +158,7 @@
     <string name="continue_offline">Продовжити офлайн</string>
 
     <!-- Profile & Menu -->
-    <string name="help_and_support">Допомога &amp; Підтримка</string>
+    <string name="help_and_support">Допомога &amp; Підтримка//Help &amp; Support</string>
     <string name="hall_of_fame">Зал слави</string>
     <string name="go_online">Увійти в мережу</string>
     <string name="go_offline">Перейти в режим офлайн гри</string>
