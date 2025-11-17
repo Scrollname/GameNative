@@ -225,7 +225,7 @@
     <string name="disable_mouse_input">Вимкнути введення мишею</string>
     <string name="touchscreen_mode">Режим сенсорного екрану</string>
     <string name="emulate_keyboard_mouse">Емуляці клавіатури та миші</string>
-    <string name="emulate_keyboard_mouse_description">Left stick = WASD, Right stick = mouse. L2 = left click, R2 = right click.</string>
+    <string name="emulate_keyboard_mouse_description">Лівий стік = WASD, Правий стік = Миша. L2 = ЛКМ, R2 = ПКМ.</string>
 
     <!-- Container Configuration: Rendering -->
     <string name="renderer">Renderer</string>
