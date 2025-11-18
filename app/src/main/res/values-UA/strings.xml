@@ -145,7 +145,7 @@
     <string name="release_date">Дата виходу</string>
     <string name="installed">Інстальовано</string>
     <string name="installing">Інсталяція</string>
-    <string name="not_installed">Не інстальовано//Not Installed</string>
+    <string name="not_installed">Не інстальовано</string>
     <string name="open">Відкрити</string>
     <string name="family_shared">Сімейна бібліотека</string>
     <string name="games">Ігри</string>
@@ -158,10 +158,10 @@
     <string name="continue_offline">Продовжити офлайн</string>
 
     <!-- Profile & Menu -->
-    <string name="help_and_support">Допомога &amp; Підтримка//Help &amp; Support</string>
+    <string name="help_and_support">Допомога &amp; Підтримка</string>
     <string name="hall_of_fame">Зал слави</string>
     <string name="go_online">Увійти в мережу</string>
-    <string name="go_offline">Перейти в режим офлайн гри</string>
+    <string name="go_offline">Вийти з мережі</string>
     <string name="log_out">Вийти з акаунта</string>
     <string name="close">Закрити</string>
 
@@ -230,7 +230,7 @@
     <!-- Container Configuration: Rendering -->
     <string name="renderer">Renderer</string>
     <string name="gpu_name">Назва GPU</string>
-    <string name="offscreen_rendering_mode">Offscreen Rendering Mode</string>
+    <string name="offscreen_rendering_mode">Режим позаекранного рендерингу</string>
     <string name="video_memory_size">Розмір відеопам'яті</string>
     <string name="enable_csmt">Enable CSMT (Command Stream Multi-Thread)</string>
     <string name="enable_strict_shader_math">Enable Strict Shader Math</string>
