@@ -100,8 +100,8 @@
         <b>1</b> : Most RET will need flags, most CALLS will not<br />
         <b>2</b> : All CALL/RET will need flags (slower)
     ]]>    </string>
-    <string name="box86_64_env_var_help__dynarec_fastnan">Створення -NAN подібного до x86</string>
-    <string name="box86_64_env_var_help__dynarec_fastround">Створення точного закруглення x86</string>
+    <string name="box86_64_env_var_help__dynarec_fastnan">Створення -NAN як на x86</string>
+    <string name="box86_64_env_var_help__dynarec_fastround">Створення точного округлення x86</string>
     <string name="box86_64_env_var_help__dynarec_x87double">Використовувати Float/Double для x87 емуляції</string>
     <string name="box86_64_env_var_help__dynarec_bigblock"><![CDATA[
         Dynarec building BigBlock<br /><br />
